@@ -30,6 +30,4 @@
   -->
  <div align="center">
  
-  ![Snake animation](https://github.com/lowlighter/metrics/blob/sillasgoes/metrics.plugin.isocalendar.fullyear.svgg)
- 
 </div>
